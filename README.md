@@ -1,6 +1,6 @@
 # SpaceApps2023---Stardust-Crusaders
 
------------------------ENGLISH---------------------------------- \n
+-----------------------ENGLISH---------------------------------- <br>
 This repository will storage all of our SpaceApps project, Hope you like it!
 At this moment it has:
 1. Link-Project.md - Which is a link to the prototype of our project made on Figma in 20 hours or so.
