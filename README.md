@@ -7,7 +7,7 @@ At this moment it has:
 2. FinalProject.mp4 - Which is a video showcasing our project and it's functionalities.
 ----------------------------------------------------------------
 
------------------------PORTUGUÊS----------------------------------
+-----------------------PORTUGUÊS---------------------------------- <br>
 Esse repositório conterá todo nosso projeto para o SpaceApps 2023, Espero que goste!
 Neste momento temos:
 1. Link-Project.md - Que é um link para o nosso projeto feito no Figma em 20 horas em média.
